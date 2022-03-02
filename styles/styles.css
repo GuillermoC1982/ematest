@@ -1,0 +1,8 @@
+h1{
+    color: crimson;
+}
+
+.animated:hover{
+    animation: pulse;
+    animation-duration: 2s
+}
