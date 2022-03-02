@@ -4,5 +4,6 @@ h1{
 
 .animated:hover{
     animation: pulse;
-    animation-duration: 2s
+    animation-duration: 4s
+
 }
